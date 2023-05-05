@@ -18,8 +18,10 @@ bio: My research interests include Public participation, collaborative governanc
 
 # Interests to show in About widget
 interests:
-- Public participation and civic engagement
-- Public and nonprofit management
+- Public participation
+- Civic engagement
+- Public budgeting & finance
+- Nonprofit management
 - Organizational performance
 
 # Education to show in About widget
