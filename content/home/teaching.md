@@ -19,4 +19,5 @@ weight = 57
 <h2>University of Missouri</h2>
 
 _Teaching Assistant_
-+ PA 8181 - Research Methods and Inquiry in Public Affairs II, Fall 2021, Spring 2022, Spring 2023
++ PA 8181 - Research Methods and Inquiry in Public Affairs II (Fall 2021, Spring 2022, Spring 2023)
++ PA 8210 - Public Service and Democracy (Fall 2022)
