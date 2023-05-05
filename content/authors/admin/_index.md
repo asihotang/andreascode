@@ -74,4 +74,4 @@ I am a PhD candidate in Public Affairs at the [Harry S Truman School of Governme
 
 You can download a copy of my Curriculum Vitae {{< staticref "Sihotang_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
-I love travelling and doing outdoor activities such as biking and fishing. 
+I love travelling and doing outdoor activities such as biking, fishing, hiking, and visiting state parks and national parks. 
