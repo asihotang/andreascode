@@ -22,10 +22,13 @@ weight = 20
 
 
 +++
-<h2>Editor-Reviewed Book Chapters</h2>
+<h2>Peer-reviewed journal articles</h2>
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
-<p>Sihotang, Andreas. Forthcoming. Does participatory budgeting improve public service performance? Evidence from New York City</a> in <u>Public Management Review. </p>
+<p>Sihotang, Andreas. (Forthcoming). Does participatory budgeting improve public service performance? Evidence from New York City</a> in <u>Public Management Review. </p>
+
+<p>Kraft, J. M., Paina, L., Boydell, V., Elnakib, S., Sihotang, A., Bailey, A., & Tolmie, C. (2022). Social Accountability Reporting for Research (SAR4Research): checklist to strengthen reporting on studies on social accountability in the literature. _International journal for equity in health_, 21(1), 1-19. https://equityhealthj.biomedcentral.com/articles/10.1186/s12939-022-01716-2 </p>
+
 
 </div>
