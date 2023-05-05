@@ -19,8 +19,7 @@ bio: My research interests include Public participation, collaborative governanc
 # Interests to show in About widget
 interests:
 - Public participation
-- Civic engagement
-- Public budgeting & finance
+- Public management
 - Nonprofit management
 - Organizational performance
 
@@ -71,8 +70,8 @@ highlight_name: false
 
 _Hi! My name is Andreas Sihotang and you can call me Andreas._
 
-I am a PhD candidate in Public Affairs at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. I recieved my MA in Conflict Transformation from the [Eastern Mennonite University](https://emu.edu). My research interests include public participation, civic engagement, collaborative governance, public and nonprofit management, and organizational performance. My dissertation research focuses on the the effect of different types of public participation on different indicators of organizational performance.
+I am a PhD candidate in Public Affairs at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. I recieved my MA in Conflict Transformation from the [Eastern Mennonite University](https://emu.edu). My research interests include public participation, civic engagement, collaborative governance, public and nonprofit management, and organizational performance. My dissertation research examines the effect of participatory budgeting on service performance, the effect of democratization on economic performance, and equity issues in ICT-based coproduction.
 
 You can download a copy of my Curriculum Vitae {{< staticref "Sihotang_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
-I love travelling and outdoor activities during my free time. 
+I love travelling and doing outdoor activities such as biking and fishing. 
