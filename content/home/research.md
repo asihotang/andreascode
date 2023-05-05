@@ -26,8 +26,6 @@ weight = 20
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
-<p>Anstett, Robert, & Authement, Jacob. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022a">Comparing and Contrasting the U.S. and Missouri Constitutions</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
-
-<p>Anstett, Robert, & Authement, Jacob. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022b">Comparing and Contrasting Political Institutions of the State of Missouri, the United States, and Other States</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
+<p>Sihotang, Andreas. Forthcoming. Does participatory budgeting improve public service performance? Evidence from New York City</a> in <u>Public Management Review. </p>
 
 </div>
