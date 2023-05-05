@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Jacob Authement
+title: Andreas Sihotang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Political Science PhD Candidate
+role: PhD Candidate in Public Affairs
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,23 +14,23 @@ organizations:
   # url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include American state politics, American political institutions, and interest groups.
+bio: My research interests include Public participation, collaborative governance, public and nonprofit management, and organizational performance.
 
 # Interests to show in About widget
 interests:
-- American State Politics
-- American Political Institutions
-- Interest Group Politics
+- Public participation and civic engagement
+- Public and nonprofit management
+- Organizational performance
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Political Science
+  - course: PhD in Public Affairs
     institution: University of Missouri
-    year: 2024 (expected)
-  - course: BA in Political Science and English Folklore
-    institution: University of Louisiana at Lafayette
-    year: 2019
+    year: 2023 (expected)
+  - course: MA in Conflict Transformation
+    institution: Eastern Mennonite University, Virginia 
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,19 +39,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jauthement@mail.missouri.edu'
+  link: 'mailto:asihotang@mail.missouri.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Jacob_Authement
+  link: https://twitter.com/asmath10
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/JacobAuthement
+  link: https://github.com/AndreasSihotang
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jacob-authement-35a986251
+  link: https://www.linkedin.com/in/andreas-sihotang-b2319547/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
