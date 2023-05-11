@@ -15,10 +15,10 @@ menu_title = "#0B2161"
 
 # Home sections
 home_section_odd = "#F1A890"
-home_section_even = "#F17248"
+home_section_even = "#FAA087"
 
 # links
-link = "#2980B9"
+link = "#E7D822"
 link_hover = "#87bfe4"
 
 [dark]
