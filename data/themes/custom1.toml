@@ -18,7 +18,7 @@ home_section_odd = "#F1A890"
 home_section_even = "#FAA087"
 
 # links
-link = "#E16A76"
+link = "#88131F"
 link_hover = "#87bfe4"
 
 [dark]
