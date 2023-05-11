@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "*Public Management Review*"
 # publication_short: "*PMR*"
 
-# abstract: Service performance is a main concern in public administration. This study uses the staggered adoption of participatory budgeting in New York City to test the hypothesis that participatory budgeting improves service performance, indicated by fewer 311 complaint rates. It applies the difference-in-differences estimator that is robust to heterogeneous treatment effects across groups and over time and finds that participatory budgeting declines the total complaint rates, which implies an improvement in public service performance. However, there is no evidence that participatory budgeting affects more specific types of complaints such as school maintenance, potholes, and new trees.
+abstract: Service performance is a main concern in public administration. This study uses the staggered adoption of participatory budgeting in New York City to test the hypothesis that participatory budgeting improves service performance, indicated by fewer 311 complaint rates. It applies the difference-in-differences estimator that is robust to heterogeneous treatment effects across groups and over time and finds that participatory budgeting declines the total complaint rates, which implies an improvement in public service performance. However, there is no evidence that participatory budgeting affects more specific types of complaints such as school maintenance, potholes, and new trees.
 # Summary. An optional shortened abstract.
 # summary:
 
