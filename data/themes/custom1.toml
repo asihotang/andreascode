@@ -19,7 +19,7 @@ home_section_even = "#FAA087"
 
 # links
 link = "#88131F"
-link_hover = "#87bfe4"
+link_hover = "#B9858A"
 
 [dark]
   link = "#bbdefb"
