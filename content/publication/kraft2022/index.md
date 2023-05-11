@@ -31,7 +31,7 @@ publication_types: ["2"]
 publication: "*International Journal for Equity in Health*"
 # publication_short: "*IJEH*"
 
-abstract: An increasing number of evaluations of social accountability (SA) interventions have been published in the past decade, however, reporting gaps make it difficult to summarize findings. We developed the Social Accountability Reporting for Research (SAR4Research) checklist to support researchers to improve the documentation of SA processes, context, study designs, and outcomes in the peer reviewed literature and to enhance application of findings.
+abstract: An increasing number of evaluations of social accountability (SA) interventions have been published in the past decade, however, reporting gaps make it difficult to summarize findings. We developed the Social Accountability Reporting for Reseaerch (SRA4Research) cheklist to support researcheres to improve the documentation of SA process, context, study designs, and outcomes in the peer reviewed literature and to enhance application of findings. 
 
 # Summary. An optional shortened abstract.
 # summary:
