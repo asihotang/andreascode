@@ -6,7 +6,7 @@ title: Andreas Sihotang
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Public Affairs
+role: Post Doctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
