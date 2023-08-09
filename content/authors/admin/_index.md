@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Public Affairs
     institution: University of Missouri
-    year: 2023 (expected)
+    year: 2023
   - course: MA in Conflict Transformation
     institution: Eastern Mennonite University, Virginia 
     year: 2010
@@ -70,7 +70,7 @@ highlight_name: false
 
 _Hi! My name is Andreas Sihotang and you can call me Andreas._
 
-I am a PhD candidate in Public Affairs at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. I received my MA in Conflict Transformation from the [Eastern Mennonite University](https://emu.edu). My research interests include public participation, civic engagement, collaborative governance, public and nonprofit management, and organizational performance. My dissertation research examines the effect of participatory budgeting on service performance, the effect of democratization on economic performance, and equity issues in ICT-based coproduction. <p>I have extensive working experience with an international nonprofit organization in a developing country. I led and managed different projects related to child and community participation, social accountability, conflict-sensitive development, and peacebuilding. I also have extensive experience in project management and project evaluation.</p>     
+I am a Postdoctoral Fellow at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. I received my Ph.D. in Public Affairs from the University of Missouri and MA in Conflict Transformation from the [Eastern Mennonite University](https://emu.edu). My research interests include public participation, civic engagement, collaborative governance, public and nonprofit management, and organizational performance. My dissertation research examines the effect of participatory budgeting on service performance, the effect of democratization on economic performance, and equity issues in ICT-based coproduction. <p>I have extensive working experience with an international nonprofit organization in a developing country. I led and managed different projects related to child and community participation, social accountability, conflict-sensitive development, and peacebuilding. I also have extensive experience in project management and project evaluation.</p>     
 
 You can download a copy of my Curriculum Vitae {{< staticref "Sihotang_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
