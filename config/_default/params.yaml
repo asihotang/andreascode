@@ -28,8 +28,8 @@ address:
   country: United States
   country_code: US
 coordinates:
-  latitude: '34.746761'
-  longitude: '-92.259827'
+  latitude: 34.746761
+  longitude: -92.259827
 email: asihotang@clintonschool.uasys.edu
 # phone: 501-683-5624
 #contact_links:
