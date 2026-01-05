@@ -25,7 +25,7 @@ _Instructor of Record_
 + CSPS 72203 - <i>Capstone Proposal</i> (Fall 2025)
 
 
-<h2>University of Missouri</h2>
+<h2>University of Missouri - Truman School of Government and Public Affairs</h2>
 
 _Instructor of Record_
 + PA 8180 - <i>Research Methods and Inquiry in Public Affairs I</i> (Spring 2024)
