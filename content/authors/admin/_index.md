@@ -6,20 +6,21 @@ title: Andreas Sihotang
 superuser: true
 
 # Role/position/tagline
-role: Post Doctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Missouri
-  # url: https://www.missouri.edu
+- name: University of Arkansas - Clinton School of Public Service
+  # url: https://clintonschool.uasys.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Public participation, collaborative governance, public and nonprofit management, and organizational performance.
+bio: My research interests include Public participation, civic engagement, public budgeting, and organizational performance.
 
 # Interests to show in About widget
 interests:
 - Public participation
 - Public management
+- Public budgeting
 - Nonprofit management
 - Organizational performance
 
@@ -68,9 +69,7 @@ social:
 highlight_name: false
 ---
 
-_Hi! My name is Andreas Sihotang and you can call me Andreas._
-
-I am a Post Doctoral Fellow at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. I received my Ph.D. in Public Affairs from the University of Missouri and MA in Conflict Transformation from the [Eastern Mennonite University](https://emu.edu). My research interests include public participation, civic engagement, collaborative governance, public and nonprofit management, and organizational performance. My dissertation research examines the effect of participatory budgeting on service performance, the effect of democratization on economic performance, and equity issues in ICT-based coproduction. <p>I have extensive working experience with an international nonprofit organization in a developing country. I led and managed different projects related to child and community participation, social accountability, conflict-sensitive development, and peacebuilding. I also have extensive experience in project management and project evaluation.</p>     
+I am an Assistant Professor at the [University of Arkansas - Clinton School of Public Service](https://clintonschool.uasys.edu/) at the University of Missouri. I received my Ph.D. in Public Affairs from the [University of Missouri - Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) and MA in Conflict Transformation from the [Eastern Mennonite University](https://emu.edu). My research interests include public participation, civic engagement, ICT-based coproduction, public budgeting, and organizational performance. My dissertation research examines the effect of participatory budgeting on service performance, the effect of democratization on economic performance, and equity issues in ICT-based coproduction. <p>I have extensive working experience with an international nonprofit organization in a developing country. I led and managed different projects related to child and community participation, social accountability, conflict-sensitive development, and peacebuilding. I also have extensive experience in project management and project evaluation.</p>     
 
 You can download a copy of my Curriculum Vitae {{< staticref "Sihotang_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
