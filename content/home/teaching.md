@@ -24,8 +24,13 @@ _Instructor of Record_
 + CSPS 72043 - <i>Capstone </i> (Spring 2026)
 + CSPS 72203 - <i>Capstone Proposal</i> (Fall 2025)
 
-+++
+
 <h2>University of Missouri</h2>
+
+_Instructor of Record_
++ PA 8180 - <i>Research Methods and Inquiry in Public Affairs I</i> (Spring 2024)
++ PA 8210 - <i>Public Service and Democracy</i> (Fall 2023, Spring 2024)
+
 
 _Teaching Assistant_
 + PA 8181 - <i>Research Methods and Inquiry in Public Affairs II</i> (Fall 2021, Spring 2022, Spring 2023)
