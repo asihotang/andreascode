@@ -21,18 +21,17 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 address:
-  street: Locust Street Building, 615 Locust St.
-  city: Columbia
-  region: MO
-  postcode: '65201'
+  street: 1200 President Clinton Ave
+  city: Little Rock
+  region: AR
+  postcode: '72201'
   country: United States
   country_code: US
 #coordinates:
-  #latitude: '38.94678625'
-  #longitude: '-92.32664375085173'
-# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-email: asihotang@mail.missouri.edu
-# phone: 
+  #latitude: '34.746761'
+  #longitude: '-92.259827'
+email: asihotang@clintonschool.uasys.edu
+# phone: 501-683-5624
 #contact_links:
  # - icon: twitter
  #   icon_pack: fab
