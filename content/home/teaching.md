@@ -16,6 +16,15 @@ weight = 57
 
 
 +++
+<h2>University of Arkansas - Clinton School of Public Service</h2>
+
+_Instructor of Record_
++ CSPS 7333 - <i>Program Planning and Development</i> (Fall 2024, Spring 2025 - Online, Fall 2025)
++ CSPS 7331 - <i>Theory and Practice of Global Development</i> (Spring 2025, Spring 2026)
++ CSPS 72043 - <i>Capstone </i> (Spring 2026)
++ CSPS 72203 - <i>Capstone Proposal</i> (Fall 2025)
+
++++
 <h2>University of Missouri</h2>
 
 _Teaching Assistant_
