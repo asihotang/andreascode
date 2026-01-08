@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andreas D. Sihotang, Ph.D.
+title: Andreas Sihotang
 
 # Is this the primary user of the site?
 superuser: true
