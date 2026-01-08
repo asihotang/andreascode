@@ -27,7 +27,9 @@ address:
   postcode: '72201'
   country: United States
   country_code: US
-
+coordinates:
+  latitude: 34.74612321958124
+  longitude: -92.25878209094799
 email: asihotang@clintonschool.uasys.edu
 phone: "501-683-5624"
 #contact_links:
@@ -134,10 +136,9 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: leaflet
+  provider: ''
+  api_key: ''
   zoom: 15
-  latitude: 34.74612321958124
-  longitude: -92.25878209094799
 marketing:
   google_analytics: ''
   google_tag_manager: ''
