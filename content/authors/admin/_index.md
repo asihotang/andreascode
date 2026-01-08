@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andreas Sihotang
+title: Andreas D. Sihotang, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
@@ -73,4 +73,4 @@ I am an Assistant Professor at the [University of Arkansas - Clinton School of P
 
 Please feel free to download a copy of my Curriculum Vitae {{< staticref "Sihotang_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
-Outside my professional work, I enjoy travelling and outdoor activities, which continue to shape my appreciation for diverse communiies and places.   
+Outside my professional work, I enjoy travelling and outdoor activities, which continue to shape my appreciation for diverse communities and places.   
