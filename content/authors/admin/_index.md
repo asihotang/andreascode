@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:asihotang@mail.missouri.edu'
+  link: 'mailto:asihotang@clintonschool.uasys.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/asmath_10
