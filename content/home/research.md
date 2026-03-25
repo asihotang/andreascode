@@ -28,9 +28,9 @@ weight = 20
 
 <p>Sihotang, Andreas, D. (2026). <a href="https://www.andreas-sihotang.com/publication/sihotang2026">Equity in ICT-based Coproduction: Evidence from San Francisco.</a> <i>Information Polity</i>. 
   
-<p>Sihotang, Andreas, D. (2023). <a href="https://www.andreas-sihotang.com/publication/sihotang2023">Does participatory budgeting improve public service performance? Evidence from New York City.</a> <i>Public Management Review</i>, 21(1), 1-19. </p>  
+<p>Sihotang, Andreas, D. (2023). <a href="https://www.andreas-sihotang.com/publication/sihotang2023">Does participatory budgeting improve public service performance? Evidence from New York City.</a> <i>Public Management Review</i>, 26(11), 3176-3200. </p>  
   
-  <p>Kraft, J. M., Paina, L., Boydell, V., Elnakib, S., <u>Sihotang, A.</u>, Bailey, A., & Tolmie, C. (2022). <a href="https://www.andreas-sihotang.com/publication/kraft2022"> Social Accountability Reporting for Research (SAR4Research): checklist to strengthen reporting on studies on social accountability in the literature. </a> <i>International journal for equity in health</i>, 26(11), 3176-3200. </p>
+  <p>Kraft, J. M., Paina, L., Boydell, V., Elnakib, S., <u>Sihotang, A.</u>, Bailey, A., & Tolmie, C. (2022). <a href="https://www.andreas-sihotang.com/publication/kraft2022"> Social Accountability Reporting for Research (SAR4Research): checklist to strengthen reporting on studies on social accountability in the literature. </a> <i>International journal for equity in health</i>, 21(1), 1-19. </p>
 
 
 </div>
